@@ -1,0 +1,8 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    background-color: #CD853F;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;;
+  }
