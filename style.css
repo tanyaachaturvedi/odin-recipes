@@ -13,11 +13,11 @@
 
 body {
     margin: 0;
-    background-color: #556B2F;
+    background-color: #6B8E23;
   }
   
   #grid {
-    height: 700px;
+    height: 192px;
     transition: 500ms;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -49,3 +49,7 @@ body {
   .right{
     font-size:30px
   }
+
+ p{
+  font-style: italic;
+ }
