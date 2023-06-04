@@ -1,6 +1,6 @@
 *{
     font-family: 'Chalkboard', sans-serif;
-    padding:50px;
+    padding:10px;
       
 }
 
@@ -8,6 +8,7 @@
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 body {
@@ -16,7 +17,7 @@ body {
   }
   
   #grid {
-    height: 100px;
+    height: 700px;
     transition: 500ms;
     display: grid;
     grid-template-columns: 1fr 1fr;
