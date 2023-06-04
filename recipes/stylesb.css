@@ -26,3 +26,13 @@
   body{
     background-color: #FFDAB9;
   }
+
+  p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+  }
+
+  div{
+    font-size: 35px;
+    font-weight: bold;
+  }
